@@ -1,9 +1,9 @@
 #!/bin/bash
 
-ZIP_URL="https://github.com/OutlawedDev/7sploit/releases/download/0.1.0/7sploit.app.zip"
-TMP_ZIP="/tmp/http://sploit.app.zip"
-UNZIP_DIR="/tmp/sploit_unzip"
-APP_NAME="7sploit.app"
+ZIP_URL="https://github.com/OutlawedDev/7sploit/releases/download/0.1.0/SevenSploit.app.zip"
+TMP_ZIP="/tmp/http://SevenSploit.app.zip"
+UNZIP_DIR="/tmp/sevensploit_unzip"
+APP_NAME="SevenSploit.app"
 DEST_DIR="/Applications"
 
 echo "⬇️ Downloading app zip..."
