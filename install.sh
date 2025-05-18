@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ZIP_URL="https://github.com/OutlawedDev/7sploit/releases/download/0.1.0/7sploit.app.zip"
-TMP_ZIP="/tmp/http://7sploit.app.zip"
-UNZIP_DIR="/tmp/7sploit_unzip"
+TMP_ZIP="/tmp/http://sploit.app.zip"
+UNZIP_DIR="/tmp/sploit_unzip"
 APP_NAME="7sploit.app"
 DEST_DIR="/Applications"
 
